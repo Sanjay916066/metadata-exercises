@@ -1,0 +1,35 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Titanic Passenger Survival Dataset",
+    "description": "Passenger demographic and survival dataset for ML tasks.",
+    "url": "https://www.kaggle.com/c/titanic",
+    "creator": {
+        "@type": "Organization",
+        "name": "Kaggle Contributors"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Kaggle"
+    },
+    "datePublished": "2024-01-01",
+    "version": "1.0",
+    "license": "https://www.kaggle.com/terms",
+    "keywords": [
+        "machine learning",
+        "classification",
+        "survival analysis"
+    ],
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "CSV",
+        "contentUrl": "https://www.kaggle.com/c/titanic"
+    },
+    "variableMeasured": [
+        "PassengerId",
+        "Survived",
+        "Age",
+        "Sex",
+        "Fare"
+    ]
+}
