@@ -1,0 +1,32 @@
+﻿Is Duplicate Row?,Sales_Category,Age_Group,Expected_Sales,Email_Valid,Order_ID,Customer_ID,Customer_Name,Email,Country,City,Order_Date,Ship_Date,Product_Category,Quantity,Unit_Price,Discount,Sales,Age,Customer_Segment_Clean,Satisfaction_Score,Payment_Method_Clean,Notes_Clean
+Unique,High,Adult,56999.943,True,O1014,C011,Julia Fischer,julia.fischer@example.com,Italy,Naples,04-08-2026,08-04-2026,Office Supplies,6,9999.99,0.05,56999.94,41,Consumer,3,Credit Card,Check Address
+Unique,Low,Senior,171.594,True,O1031,C003,Laura Rossi,laura.rossi@example.com,Spain,Madrid,06-03-2026,03-11-2026,Office Supplies,1,190.66,0.1,171.59,55,Consumer,1,Credit Card,Return Risk
+Unique,Low,Senior,389.52,True,O1079,C047,John Doe,john.doe@example.com,Germany,Mannheim,01-06-2026,10-01-2026,Furniture,4,129.84,0.25,389.52,64,Consumer,4,Credit Card,Ok
+Unique,Medium,Senior,1064.455,True,O1059,C013,Luca Bianchi,luca.bianchi@example.com,France,Paris,13-01-2026,23-01-2026,Home,7,178.9,0.15,1064.45,60,Unknown,5,Paypal,Return Risk
+Unique,Medium,Adult,501.72,True,O1053,C014,Marie Dubois,marie.dubois@example.com,France,Paris,05-05-2026,08-05-2026,Electronics,2,334.48,0.25,501.72,37,Home Office,5,Unknown,Check Address
+Unique,Low,Adult,371.322,True,O1008,C043,Julia Fischer,julia.fischer@example.com,France,Lyon,16-04-2026,23-04-2026,Home,2,206.29,0.1,371.32,45,Unknown,4,Credit Card,Missing Phone
+Unique,High,Senior,2604.128,True,O1018,C049,Mehdi Karimi,mehdi.karimi@example.com,Netherlands,Amsterdam,28-01-2026,03-02-2026,Home,8,382.96,0.15,2604.13,58,Corporate,3,Unknown,Missing Phone
+Unique,High,Senior,2209.422,True,O1036,C017,Carlos Garcia,carlos.garcia@example.com,Spain,Madrid,03-01-2026,10-01-2026,Furniture,6,433.22,0.15,2209.42,70,Consumer,4,Cash,Urgent
+Unique,Medium,Senior,662.8625,True,O1071,C035,Marie Dubois,marie.dubois@example.com,France,Paris,03-09-2026,18-03-2026,Electronics,5,139.55,0.05,662.86,60,Home Office,3,Cash,Urgent
+Unique,High,Senior,1773.112,True,O1051,C039,Carlos Garcia,carlos.garcia@example.com,Spain,Madrid,16-01-2026,23-01-2026,Office Supplies,11,201.49,0.2,1773.11,55,Consumer,3,Bank Transfer,No Notes
+Unique,Medium,Senior,1241.27,True,O1037,C050,Laura Rossi,laura.rossi@example.com,Italy,Milan,08-05-2026,12-05-2026,Electronics,4,326.65,0.05,1241.27,56,Consumer,1,Bank Transfer,Missing Phone
+Unique,Medium,Adult,1299.375,True,O1078,C005,Nina Weber,nina.weber@example.com,Germany,Karlsruhe,17-01-2026,25-01-2026,Home,5,346.5,0.25,1299.38,42,Consumer,4,Bank Transfer,Missing Phone
+Unique,Low,Senior,101.92,True,O1082,C014,Nina Weber,nina.weber@example.com,France,Paris,26-04-2026,01-05-2026,Furniture,5,25.48,0.2,101.92,62,Consumer,2,Credit Card,No Notes
+Unique,Low,Senior,423.288,True,O1066,C021,Mehdi Karimi,mehdi.karimi@example.com,Italy,Milan,30-03-2026,05-04-2026,Office Supplies,4,117.58,0.1,423.29,76,Consumer,2,Paypal,Check Address
+Unique,Medium,Adult,1000.54,True,O1040,C024,John Doe,john.doe@example.com,Italy,Rome,19-05-2026,25-05-2026,Office Supplies,8,131.65,0.05,1000.54,44,Consumer,3,Cash,Missing Phone
+Unique,Low,Senior,134.5,True,O1090,C029,John Doe,john.doe@example.com,Spain,Barcelona,15-04-2026,16-04-2026,Furniture,10,13.45,0,134.5,62,Corporate,2,Bank Transfer,Ok
+Unique,Medium,Adult,906.25,True,O1052,C055,John Doe,john.doe@example.com,Italy,Rome,08-02-2026,13-02-2026,Home,5,181.25,0,906.25,35,Consumer,3,Cash,Missing Phone
+Unique,Medium,Adult,527.76,True,O1010,C004,Tom Brown,tom.brown@example.com,Spain,Barcelona,17-02-2026,18-02-2026,Furniture,2,263.88,0,527.76,42,Corporate,3,Paypal,Ok
+Unique,Medium,Senior,1283.94,True,O1091,C018,Carlos Garcia,carlos.garcia@example.com,France,Lyon,20-01-2026,25-01-2026,Home,10,142.66,0.1,1283.94,69,Consumer,3,Bank Transfer,Missing Phone
+Unique,Medium,Adult,509.565,True,O1024,C035,Peter Schmidt,peter.schmidt@example.com,Italy,Naples,22-04-2026,01-05-2026,Furniture,2,339.71,0.25,509.56,40,Home Office,3,Bank Transfer,Urgent
+Unique,Medium,Adult,1252.1,True,O1049,C020,Mehdi Karimi,mehdi.karimi@example.com,Italy,Milan,27-03-2026,29-03-2026,Office Supplies,4,329.5,0.05,1252.1,31,Corporate,2,Unknown,Ok
+Unique,Medium,Adult,1291.08,True,O1043,C007,Anna Müller,anna.muller@example.com,Spain,Madrid,24-04-2026,25-04-2026,Home,5,322.77,0.2,1291.08,49,Home Office,4,Paypal,Missing Phone
+Unique,Medium,Senior,1371.325,True,O1064,C034,Nina Weber,nina.weber@example.com,Germany,Heidelberg,11-02-2026,16-02-2026,Home,5,288.7,0.05,1371.33,56,Home Office,5,Bank Transfer,Ok
+Unique,Low,Young,101.744,True,O1006,C054,Carlos Garcia,carlos.garcia@example.com,Italy,Naples,15-01-2026,18-01-2026,Furniture,2,63.59,0.2,101.74,26,Home Office,4,Bank Transfer,Missing Phone
+Unique,High,Adult,2339.136,True,O1077,C004,Marie Dubois,marie.dubois@example.com,Netherlands,Amsterdam,10-05-2026,13-05-2026,Furniture,9,324.88,0.2,2339.14,44,Home Office,5,Credit Card,Missing Phone
+Unique,High,Adult,1791.9,True,O1083,C039,Peter Schmidt,peter.schmidt@example.com,Italy,Milan,03-03-2026,11-03-2026,Electronics,6,398.2,0.25,1791.9,46,Consumer,2,Bank Transfer,Ok
+Unique,High,Senior,2747.952,True,O1045,C047,Luca Bianchi,luca.bianchi@example.com,Germany,Karlsruhe,21-03-2026,26-03-2026,Home,8,381.66,0.1,2747.95,52,Consumer,5,Bank Transfer,Missing Phone
+Unique,High,Adult,2093.108,True,O1054,C029,Anna Müller,anna.muller@example.com,Spain,Valencia,25-04-2026,28-04-2026,Electronics,8,307.81,0.15,2093.11,45,Unknown,5,Bank Transfer,Check Address
+Unique,High,Senior,1966.671,True,O1003,C014,Carlos Garcia,carlos.garcia@example.com,Italy,Rome,19-01-2026,28-01-2026,Office Supplies,7,312.17,0.1,1966.67,69,Consumer,1,Unknown,Check Address
+Unique,High,Adult,2151.163,True,O1020,C055,Nina Weber,nina.weber@example.com,Netherlands,Rotterdam,08-04-2026,15-04-2026,Office Supplies,7,361.54,0.15,2151.16,30,Consumer,4,Credit Card,Ok
+Unique,High,Adult,37999.962,True,O1017,C051,Maha Zadeh,maha.zadeh@example.com,Italy,Milan,22-01-2026,26-01-2026,Office Supplies,4,9999.99,0.05,37999.96,46,Corporate,4,Cash,Missing Phone
